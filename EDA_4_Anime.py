@@ -303,7 +303,6 @@ def main() -> None:
     generate_all_visualizations(clean_data, plots_folder)
 
     print("="*60)
-    print("¡PROCESAMIENTO Y VISUALIZACIONES COMPLETADAS CON ÉXITO!")
     print(f"Directorio de salida: {plots_folder}")
     print("="*60)
 

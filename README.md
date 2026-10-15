@@ -1,4 +1,4 @@
-#Anime Exploratory Data Analysis (EDA) - 2026
+## Anime Exploratory Data Analysis (EDA) - 2026
 
 [![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.14-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

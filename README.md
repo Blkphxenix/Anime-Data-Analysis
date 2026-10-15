@@ -1,4 +1,4 @@
-# 🎬 Anime Exploratory Data Analysis (EDA) - 2026
+#Anime Exploratory Data Analysis (EDA) - 2026
 
 [![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.14-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -11,7 +11,7 @@ Este proyecto contiene un pipeline modular en Python para la limpieza, transform
 
 ---
 
-## 📑 Tabla de Contenidos
+## Tabla de Contenidos
 
 - [Características Principales](#-características-principales)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
@@ -28,7 +28,7 @@ Este proyecto contiene un pipeline modular en Python para la limpieza, transform
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 * **Normalización de Datos**: Tratamiento de valores centinela (`UNKNOWN`), imputación e inferencia de tipos de datos.
 * **Extracción Temporal**: Parsing de años de emisión a partir de campos textuales desestructurados (`Premiered` y `Aired`).
@@ -37,7 +37,7 @@ Este proyecto contiene un pipeline modular en Python para la limpieza, transform
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 ├── EDA_4_Anime.py           # Script principal con el pipeline de limpieza y visualización
@@ -58,7 +58,7 @@ Este proyecto contiene un pipeline modular en Python para la limpieza, transform
 
 ---
 
-## 📊 Principales Hallazgos
+## Principales Hallazgos
 
 ### 1. Distribución de Calificaciones (Score)
 La media global de calificación se ubica en **6.41** ($\pm 0.89$), con una mediana de **6.39**. El 50% central de las obras se sitúa entre **5.79** y **7.04**. Obtener una nota superior a **8.0** coloca a un anime en el percentil superior del 3.5% histórico.
@@ -105,7 +105,7 @@ Existe una correlación casi perfecta ($r = 0.99$) entre el número de usuarios 
 
 ---
 
-## ⚙️ Instalación y Requisitos
+## Instalación y Requisitos
 
 1. **Clonar el repositorio**:
    ```bash
@@ -131,7 +131,7 @@ Existe una correlación casi perfecta ($r = 0.99$) entre el número de usuarios 
 
 ---
 
-## 💻 Uso y Ejecución
+## Uso y Ejecución
 
 Para ejecutar el pipeline completo de limpieza y regenerar todas las gráficas estadísticas:
 
@@ -143,6 +143,6 @@ Las figuras se guardarán automáticamente en la carpeta `eda_plots/` en formato
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto se distribuye bajo la licencia **MIT**. Para más información, consulta el archivo `LICENSE`.
